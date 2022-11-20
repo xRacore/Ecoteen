@@ -88,9 +88,9 @@ text-align: left;
   }
 
   .hr1{
-width: 80%;
-border-radius: 30px;
-border-color: rgb(54, 54, 54);
+    width: 80%;
+    border-radius: 30px;
+    border-color: rgb(54, 54, 54);
   }
   #report_info_number{
     font-size: 18px;
