@@ -50,7 +50,7 @@ document.getElementById("submit_report").onclick = function () {
     document.getElementById("report_info_students").innerHTML =
       " Present Contestans:" + "\n" + notHereStudents;
   }
-  document.getElementById('Absent').innerHTML = "Absent Contestants: <br> " + hereStudents;
+  document.getElementById('Absent').innerHTML = "Absent Contestants:  " + hereStudents ;
   document.getElementById('Absentnum').innerHTML = "Total Absent Contestants: " + hereStudents.length;
 };
 // document.getElementById('add_student').onclick = function(){
