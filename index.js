@@ -2,18 +2,18 @@ var notHere;
 var notHereStudents;
 const d = new Date();
 const months = [
-  "January",
-  "February",
-  "March",
-  "April",
-  "May",
-  "June",
-  "July",
-  "August",
-  "September",
-  "October",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "10",
   "11",
-  "December",
+  "12",
 ];
 
 let month = months[d.getMonth()];
